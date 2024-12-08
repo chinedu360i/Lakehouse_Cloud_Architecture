@@ -5,3 +5,4 @@ Retail banks today face intense competition and rapidly evolving customer expect
 This article explores how Azure Lakehouse architecture supports retail banks' mission to deliver data-driven decisions and achieve operational excellence.
 
 
+[Complete Report](https://github.com/chinedu360i/Lakehouse_Cloud_Architecture/blob/main/Article%20on%20Lakehouse%20Cloud%20Architecture.pdf)
